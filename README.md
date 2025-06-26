@@ -13,3 +13,6 @@ CloudStreamify is a simulated backend infrastructure for a scalable media stream
 
 ### Setup Instructions: 
 [Add your future deployment here...]
+
+### CDN Strategy:
+We use AWS CloudFront + S3 for delivering static video content globally, reducing latency and improving performance.
